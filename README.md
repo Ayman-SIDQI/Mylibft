@@ -1,4 +1,4 @@
-                ![libft_pic](https://user-images.githubusercontent.com/90562697/224482888-cc4e4459-77c9-49a3-88b5-3ec3e92ea946.png)
+
 
 
 # Mylibft
